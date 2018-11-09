@@ -1,1 +1,5 @@
 # Script examples
+
+httpGet - 
+
+timeReturn - 
